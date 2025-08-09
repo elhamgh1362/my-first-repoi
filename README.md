@@ -1,7 +1,7 @@
 # my-first-repoi
 just testing github
 import requests
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as pl
 from datetime import datetime
 
 def fetch_btc_history():
